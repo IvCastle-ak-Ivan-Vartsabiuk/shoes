@@ -1,0 +1,4 @@
+N Shoes Size Price
+3 Moccasins 41 70,00
+3 Sandals 41 39,90
+2 Slippers 42 25,00

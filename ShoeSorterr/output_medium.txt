@@ -1,0 +1,5 @@
+N Shoes Size Price
+3 Clogs 37 41,50
+1 Sneakers 38 59,90
+1 Boots 39 54,10
+1 Loafers 40 55,00

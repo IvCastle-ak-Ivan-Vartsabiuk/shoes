@@ -1,0 +1,4 @@
+N Shoes Size Price
+1 Boots 39 54.1
+2 Sneakers 36 48.0
+3 Sandals 41 39.9

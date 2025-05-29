@@ -1,0 +1,4 @@
+N Shoes Size Price
+1 Loafers 40 55.00
+2 Slippers 42 25.00
+3 Clogs 37 41.50

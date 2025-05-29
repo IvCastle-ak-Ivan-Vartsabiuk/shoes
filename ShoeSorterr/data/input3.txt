@@ -1,0 +1,4 @@
+N Shoes Size Price
+1 Sneakers 38 59.90
+2 FlipFlops 34 19.99
+3 Moccasins 41 70.00
